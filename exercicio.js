@@ -49,4 +49,5 @@ let b = 25;
 c = a;
 a = b;
 b = c;
-console.log(a, b);
+console.log('O novo valor de a é', a);
+console.log('o novo valor de b é', b);
